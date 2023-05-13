@@ -3,7 +3,7 @@
 
 
 
-[<img src="https://www.codewars.com/users/KorayAydemir/badges/small" />](https://www.codewars.com/users/KorayAydemir)
+[<img src="https://www.codewars.com/users/KorayAydemir/badges/small" target="_blank"/>](https://www.codewars.com/users/KorayAydemir)
 
 <!--
 **KorayAydemir/KorayAydemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

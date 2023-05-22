@@ -3,11 +3,15 @@
 [<img src="https://www.codewars.com/users/KorayAydemir/badges/small"/>](https://www.codewars.com/users/KorayAydemir)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KorayAydemir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/koray-aydemir-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://korayaydemir.dev)  
-
+<a href="">
   <img align="center" src="https://github-readme-stats-korayaydemir.vercel.app/api/top-langs/?username=KorayAydemir" />
-
-
+</a>
+<a href="">
   <img align="center" src="https://github-readme-stats-korayaydemir.vercel.app/api?username=KorayAydemir&show_icons=true" />
+</a>
+
+  <img align="center" src="https://streak-stats.demolab.com/?user=KorayAydemir" />
+
 
 ![Top Langs](https://github-readme-stats-korayaydemir.vercel.app/api/top-langs/?username=KorayAydemir)
 

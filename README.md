@@ -1,9 +1,9 @@
 ### Hi there 👋
 [<img src="https://www.codewars.com/users/KorayAydemir/badges/small"/>](https://www.codewars.com/users/KorayAydemir)
 
-![Top Langs](https://github-readme-stats-korayaydemir.vercel.app/api/top-langs/?username=KorayAydemir&theme=midnight-purple)
+![Top Langs](https://github-readme-stats-korayaydemir.vercel.app/api/top-langs/?username=KorayAydemir&theme=chartreuse-dark)
 
-![GitHub stats](https://github-readme-stats-korayaydemir.vercel.app/api?username=KorayAydemir&show_icons=true&theme=midnight-purple)  
+![GitHub stats](https://github-readme-stats-korayaydemir.vercel.app/api?username=KorayAydemir&show_icons=true&theme=chartreuse-dark)  
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=KorayAydemir)  

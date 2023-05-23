@@ -23,6 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/koray-aydemir-dev)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Korayzzzzz)
 
 ![GitHub stats](https://github-readme-stats-korayaydemir.vercel.app/api?username=KorayAydemir&show_icons=true&theme=chartreuse-dark)  

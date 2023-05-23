@@ -22,6 +22,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Korayzzzzz)
+
 ![GitHub stats](https://github-readme-stats-korayaydemir.vercel.app/api?username=KorayAydemir&show_icons=true&theme=chartreuse-dark)  
 
 
